@@ -25,7 +25,7 @@ The application consists of three main sections:
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd IncrePD-Dashboard
+   cd IncrPD-capstone-project
    ```
 3. **Install Dependencies**:
    - Install necessary packages using the requirements file:
