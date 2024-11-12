@@ -21,7 +21,7 @@ The application consists of three main sections:
 ### Steps to Install and Run
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/IncrePD-Dashboard.git
+   git clone https://github.com/NicoleLiu6/IncrPD-capstone-project.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
